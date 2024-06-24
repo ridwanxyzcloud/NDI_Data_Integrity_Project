@@ -1,6 +1,4 @@
 pandas
-numpy
 sqlalchemy
-jupyter
-matplotlib
-seaborn
+spark-redshift
+pyspark
